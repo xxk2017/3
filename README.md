@@ -33,6 +33,18 @@
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 </tr>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T.jpg" /></td>
+  </tr>
+  <tr>
+   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T1.jpg" /></td>
+     </tr>
+  <tr>
+   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T8.jpg" /></td>   
+     </tr>
+  <tr>
+   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T3.jpg" /></td> 
+     </tr>
+  <tr>
   <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
