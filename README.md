@@ -4,17 +4,17 @@
   </tr>
   <tr>
    <td align=center>
-      全球近3亿人的幸运选择，珍贵机缘<br/>
-      为你而来，这一次您千万别再错过～<br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
-      如打开慢，缓冲稍等或刷新<br/>
+   全球近3亿人的幸运选择，珍贵机缘<br/>
+为你而来，这一次您千万别再错过～<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
   <tr>
    <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
-      如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
    <td align=left>
@@ -48,17 +48,17 @@
    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T3.jpg" /></td> 
   </tr>
   <tr>
-   <td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
+<td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-   <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
+<td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
        </td>
   </tr>
   <tr>
-   <td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
+<td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
 推荐谷歌或火狐浏览器<br/>
 国产浏览器会干扰访问<br/>
     </td>
