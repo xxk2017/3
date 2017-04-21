@@ -9,11 +9,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
    </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
-  </tr>
-  <tr>
- <td align=center>
-如打开慢，缓冲稍等或刷新<br/>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
@@ -24,7 +20,7 @@
   </tr>
   <tr>
    <td align=left>
-◆中共不等于中国，中共一直在用谎言与暴力迫害中国民众，导致八千多万中国同胞非正常死亡，现在仍然在迫害善良的中国人。截至昨日，已有 269,386,319 人声明“三退”（退出中共邪党及其附属的共青团、少先队组织），每天可达十多万人。<br/>
+◆中共不等于中国，中共一直在用谎言与暴力迫害中国民众，导致八千多万中国同胞非正常死亡，现在仍然在迫害善良的中国人。截至2017年4月20日，已有 270,532,990 人声明“三退”（退出中共邪党及其附属的共青团、少先队组织），每天可达十多万人。<br/>
 ◆有人说“自己心中退党（团队）就算退了，不必声明”，还有人认为“自己多年没交党费了，就算自动退党了”，“超龄了，就自动退团（队）了”。 但这都不能抹掉举着右手宣誓时被打上的印记。只有声明退出中共党、团、队组织，才能解除毒誓，在天灭中共时免于被淘汰，为自己选择美好的未来。<br/>
 ◆您在这里“三退”（几分钟就可以）是安全的，用真名、化名都可以。不仅不会影响您的工作与生活，反而会遇难呈祥，逢凶化吉。<br/>
 
@@ -78,7 +74,8 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
-苹果用户用自带浏览器打开即可<br/>
+苹果用户复制到自带浏览器打开<br/>
+    </td>
   </tr>
   <tr>
       <td align=center>
@@ -95,6 +92,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
