@@ -4,7 +4,7 @@
   </tr>
   <tr>
    <td align=center>
-   全球近3亿人的幸运选择，珍贵机缘<br/>
+全球近3亿人的幸运选择，珍贵机缘<br/>
 为你而来，这一次您千万别再错过～<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
    </tr>
