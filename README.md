@@ -30,7 +30,7 @@
 * 化名尽量避免使用太常用的化名，如平安，吉祥，如意，顺利，幸福，成功，快乐，发财等；避免使用邪党头子或者邪党树立的所谓英雄人物作化名。
 * 化名避免使用王一、王二、王三、王四、王五等这样姓加编号的方式。
 * 参考资料：<br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年人心明</a><br/>
+❤<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年人心明</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
