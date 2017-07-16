@@ -4,8 +4,9 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgTY<br/>
-本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
-苹果用户直接复制到苹果自带Safari浏览器打开<br/>
+翻墙短网址：https://git.io/ogate<br/>
+本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
+苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
 中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
