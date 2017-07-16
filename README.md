@@ -4,7 +4,7 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgTY<br/>
-❤翻墙永久网址：https://git.io/ogate （请收藏）<br/>
+◆翻墙永久网址：https://git.io/ogate （请收藏）<br/>
 本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
 苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
 中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
-◆网门 https://git.io/ogate<br/>
+❤网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
